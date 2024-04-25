@@ -31,9 +31,9 @@ table_column = 5    <= Set column number for layout
 Layout store (structure directory and files) in directory **dashboard**
 ```
 \dashboard\
-    \1\         => list/slide
-        1.ini   => Button configuration file
-        2.ini   => Button configuration file
+    \1\         <= list/slide
+        1.ini   <= Button configuration file
+        2.ini   <= Button configuration file
         ...
         ...
 ```
