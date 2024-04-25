@@ -17,6 +17,17 @@ pip install -r requirements.txt
 
 ## Configuration
 
+Webserver configuration - **config.ini**
+```
+[webserver]
+ip = "192.168.0.10" <= Set IP server
+port = "8000"       <= Set specific port
+
+[ui]
+table_column = 5    <= Set column number for layout
+```
+
+
 Layout store (structure directory and files) in directory **dashboard**
 ```
 \dashboard\
